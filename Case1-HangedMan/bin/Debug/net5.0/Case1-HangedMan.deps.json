@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Case1-HangedMan/1.0.0": {
+        "runtime": {
+          "Case1-HangedMan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Case1-HangedMan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
